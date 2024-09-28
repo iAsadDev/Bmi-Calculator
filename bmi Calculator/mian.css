@@ -1,0 +1,16 @@
+body{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+p{
+  height: 20vh;
+  width: 20vw;
+  border: 1px solid green;
+  background-color:yellow;
+  justify-content: center;
+  align-items: center;
+}
